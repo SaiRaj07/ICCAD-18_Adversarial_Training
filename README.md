@@ -1,10 +1,7 @@
 # ICCAD-18_Adversarial_Training
 This repository has the source code to repeat the experiments presented in the ICCAD18 paper title: Enhancing Adversarial Training towards Robust Machine Learners and its Analysis.
 
-The link to the paper is: 
-
-https://dl.acm.org/authorize.cfm?key=N664561
-
+The link to the paper is: https://dl.acm.org/authorize.cfm?key=N664561
 
 DATASET: Mnist Digits and Mnist Fashion are datasets used for experimentation and can be found online. You can also use other datasets like cifar-10
 
