@@ -3,7 +3,8 @@ This repository has the source code to repeat the experiments presented in the I
 
 The link to the paper is: 
 
-http://delivery.acm.org/10.1145/3270000/3267502/a78-manoj.pdf?ip=129.174.182.28&id=3267502&acc=OPENTOC&key=B33240AC40EC9E30%2EB
+https://dl.acm.org/authorize.cfm?key=N664561
+
 
 DATASET: Mnist Digits and Mnist Fashion are datasets used for experimentation and can be found online. You can also use other datasets like cifar-10
 
